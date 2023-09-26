@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=TadasRup)
 
+![](https://raw.githubusercontent.com/TadasRup/TadasRup2/master/profile-summary-card-output/vision_friendly_dark/3-stats.svg)
+
 <!--
 **TadasRup/TadasRup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
