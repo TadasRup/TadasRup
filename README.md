@@ -1,4 +1,4 @@
-<h1 align="center">Tado Rupslaukio Programavimo paslaugosĄ👋</h1>
+<h1 align="center">Tado Rupšlaukio programavimo paslaugos!👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tadasrup&label=Profile%20views&color=0e75b6&style=flat" alt="tadasrup" /> </p>
 
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Udemy, Bootstrap, Typescript, Javascript, Python**
 
-- 📫 How to reach me **tadas.msp@gmail.com**
+- 📫 Siuo metu uzsakymus piremu tik el. pastu **tadas.msp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
