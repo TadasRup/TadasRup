@@ -1,4 +1,4 @@
-<h1 align="center">Aloha👋</h1>
+<h1 align="center">Tado Rupslaukio Programavimo paslaugosĄ👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tadasrup&label=Profile%20views&color=0e75b6&style=flat" alt="tadasrup" /> </p>
 
 
