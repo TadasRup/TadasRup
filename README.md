@@ -3,11 +3,9 @@
 
 
 
-- 🔭 I’m currently working on [PostHuub](https://github.com/TadasRup/my-own-socials-app)
+- 🔭 I’m currently working on [PandaHuub]
 
-- 🌱 I’m currently learning **Udemy, Bootstrap, Typescript, Javascript, Python**
-
-- 📫 Siuo metu uzsakymus piremu tik el. pastu **tadas.msp@gmail.com**
+- 🌱 I’m currently learning **Udemy, Bootstrap, Typescript, Javascript, Python, Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
