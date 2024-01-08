@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [PandaHuub]
+- 🔭 I’m currently working on [PandaHuub] my own social network
 
 - 🌱 I’m currently learning **Udemy, Bootstrap, Typescript, Javascript, Python, Angular**
 
